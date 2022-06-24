@@ -5,8 +5,11 @@
 
 
 #- 🔭 Atualmente, trabalho como front-end jr em projetos pessoais.
+
 #- 🌱 Estou me dedicando em aprender melhor ReactJS
+
 #- 📫 Como me achar https://www.linkedin.com/feed/
+
 #- 😄 Pronouns: ela/dela
 
 <div align="center">
