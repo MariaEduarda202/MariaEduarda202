@@ -4,9 +4,9 @@
 
 
 
-#- 🔭 Atualmente, trabalho como front-end jr em projetos pessoais.
+#- 🔭 Atualmente cursando Análise e desenvolvimento de sistemas 
 
-#- 🌱 Estou me dedicando em aprender melhor ReactJS
+#- 🌱 Estou me dedicando a aprender cada dia mais e aprendendo Java =)
 
 #- 📫 Como me achar https://www.linkedin.com/feed/
 
