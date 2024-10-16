@@ -6,7 +6,7 @@
 
 #- 🔭 Atualmente cursando Análise e desenvolvimento de sistemas 
 
-#- 🌱 Estou me dedicando a aprender cada dia mais e aprendendo Java =)
+#- 🌱 Estou me dedicando a aprender cada dia mais e aprendendo python
 
 #- 📫 Como me achar https://www.linkedin.com/feed/
 
