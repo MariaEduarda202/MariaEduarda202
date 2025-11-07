@@ -1,10 +1,10 @@
-### Olá, eu sou Maria Eduarda 👋
+### Olá, eu sou Maria Eduarda 
 
 
 
 
 
-#- 🔭 Atualmente cursando Análise e desenvolvimento de sistemas 
+#- Formada em Análise e desenvolvimento de sistemas 
 
 #- 🌱 Estou me dedicando a aprender cada dia mais e aprendendo python
 
